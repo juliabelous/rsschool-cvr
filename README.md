@@ -1,3 +1,3 @@
 # rsschool-cv
-Git &amp; Markdown
+Git &amp; Markdown.
 https://juliabelous.github.io/rsschool-cv/
