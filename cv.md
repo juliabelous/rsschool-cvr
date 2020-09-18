@@ -7,3 +7,4 @@
 * I am currently taking courses **rsschool**.
 * I study at GUAP, we study python there.
 * My English language level is *A2 ELEMENTARY*, but I am actively improving it now.
+* There are no projects yet, but there will be many.
