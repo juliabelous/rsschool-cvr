@@ -6,4 +6,4 @@
 * I used to study python, now I learn JS in parallel.
 * I am currently taking courses **rsschool**.
 * I study at GUAP, we study python there.
-* My English language level is *A2 ELEMENTARY*, but I am actively improving it now
+* My English language level is *A2 ELEMENTARY*, but I am actively improving it now.
